@@ -55,3 +55,4 @@ To set up the project, follow these steps:
  ┣ 📜README.md<br>
  ┣ 📜tailwind.config.js<br>
  ┗ 📜vite.config.js<br>
+![17473](https://github.com/erpankajk4/Aeonaxy-Assignment-Frontend/assets/118353291/3607d09a-eef8-42b6-8b56-afbf10e4435f)
